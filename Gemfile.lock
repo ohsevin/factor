@@ -23,7 +23,7 @@ GEM
       tins (~> 1.6.0)
     diff-lcs (1.2.5)
     docile (1.1.5)
-    ffi (1.9.10)
+    ffi (1.16.3)
     formatador (0.2.5)
     guard (2.13.0)
       formatador (>= 0.2.4)
@@ -40,7 +40,7 @@ GEM
       guard-compat (~> 1.1)
       rspec (>= 2.99.0, < 4.0)
     highline (1.7.8)
-    json (1.8.3)
+    json (1.8.6)
     listen (3.1.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
@@ -56,7 +56,7 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rainbow (2.1.0)
-    rake (11.1.2)
+    rake (12.3.3)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -94,7 +94,7 @@ DEPENDENCIES
   factor!
   guard (~> 2.13.0)
   guard-rspec (~> 4.6.5)
-  rake (~> 11.1.2)
+  rake (~> 12.3.3)
 
 BUNDLED WITH
    1.12.1
